@@ -1,0 +1,38 @@
+
+div.button1{
+    position: fixed;
+    height: 3px;
+    top: 70px; 
+    margin: 10px
+    
+}
+
+.button1{background-color: #fff;}
+
+
+div.Read
+h1{
+    color: #000;
+    font-size: xx-large;
+    position: auto;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+
+h2{
+    color: #000;
+    position: fixed;
+    font-size: large;
+    top: 50px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body{
+    background-color: #fff;
+}
+
+
+
+
+
+
